@@ -5,3 +5,4 @@ discord.py==1.5.1
 numpy==1.19.4
 discord==1.0.1
 python-dotenv==0.15.0
+databases
