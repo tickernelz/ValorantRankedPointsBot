@@ -25,7 +25,7 @@ PASSWORD = os.getenv('PASSWORD')
 DATABASE_URL = os.getenv('DATABASE_URL')
 
 if DATABASE_URL:
-    import database as db
+    import databases as db
 
 bot = commands.Bot(command_prefix='-')
 
